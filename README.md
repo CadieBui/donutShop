@@ -1,5 +1,5 @@
 # orderpro
-https://donutshop.onrender.com/order
+https://donutshop.onrender.com
 
 ## Project setup
 ```
